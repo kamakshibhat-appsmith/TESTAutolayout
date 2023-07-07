@@ -15,6 +15,9 @@
   },
   "color": "#C2DAF0",
   "icon": "chinese-remnibi",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
